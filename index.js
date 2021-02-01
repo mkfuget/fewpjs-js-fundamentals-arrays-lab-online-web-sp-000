@@ -1,8 +1,8 @@
 // Write your solution here!
-const append = ["Milo", "Otis", "Garfield"];
-const prepend = ["Milo", "Otis", "Garfield"];
-const removeLast = ["Milo", "Otis", "Garfield"];
-const removeFirst = ["Milo", "Otis", "Garfield"];
+var append = ["Milo", "Otis", "Garfield"];
+var prepend = ["Milo", "Otis", "Garfield"];
+var removeLast = ["Milo", "Otis", "Garfield"];
+var removeFirst = ["Milo", "Otis", "Garfield"];
 append.append("Odie")
 prepend.prepend("Odie")
 removelast.removeLast
